@@ -1,1 +1,1 @@
-# opos-asset
+# this is whale coin
